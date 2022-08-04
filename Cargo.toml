@@ -12,3 +12,5 @@ permutohedron = "~0.2.2"
 primal = "~0.2.3"
 serde = { version = "1.0", features = ["derive"] }
 csv = "1.1.6"
+docopt = "1.1.1"
+hyper = { version = "0.14.12", features = ["server","client"] }
